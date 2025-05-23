@@ -1,1 +1,1 @@
-COffee chain dashboard using looker studio 
+Coffee Chain dashboard using looker studio 
